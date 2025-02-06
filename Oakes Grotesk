@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Oakes Grotesk';
+    src: url('https://github.com/Ali-faraz-khan96/MCDFY-Fonts/raw/refs/heads/Oakes-Grotesk/OakesGrotesk-Bold.woff2') format('woff2'),
+    https://github.com/Ali-faraz-khan96/MCDFY-Fonts/raw/refs/heads/Oakes-Grotesk/OakesGrotesk-Bold.woff2
+         url('https://github.com/Ali-faraz-khan96/MCDFY-Fonts/blob/Oakes-Grotesk/OakesGrotesk-Bold.woff') format('woff');
+    font-weight: 700; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oakes Grotesk';
+    src: url('https://github.com/Ali-faraz-khan96/MCDFY-Fonts/raw/refs/heads/Oakes-Grotesk/OakesGrotesk-Medium.woff2') format('woff2'),
+         url('https://github.com/Ali-faraz-khan96/MCDFY-Fonts/raw/refs/heads/Oakes-Grotesk/OakesGrotesk-Medium.woff') format('woff');
+    font-weight: 600; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oakes Grotesk';
+    src: url('https://github.com/Ali-faraz-khan96/MCDFY-Fonts/raw/refs/heads/Oakes-Grotesk/OakesGrotesk-Regular.woff2') format('woff2'),
+         url('https://github.com/Ali-faraz-khan96/MCDFY-Fonts/raw/refs/heads/Oakes-Grotesk/OakesGrotesk-Regular.woff') format('woff');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oakes Grotesk';
+    src: url('https://github.com/Ali-faraz-khan96/MCDFY-Fonts/raw/refs/heads/Oakes-Grotesk/OakesGrotesk-Semi-Bold.woff2') format('woff2'),
+         url('https://github.com/Ali-faraz-khan96/MCDFY-Fonts/raw/refs/heads/Oakes-Grotesk/OakesGrotesk-Semi-Bold.woff') format('woff');
+    font-weight: 600; /* Bold */
+    font-style: normal;
+}
